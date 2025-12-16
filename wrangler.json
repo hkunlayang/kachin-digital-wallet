@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "kachin-digital-wallet",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "33549cc8-c554-4960-85f6-2c0008a9d99f",
+			"database_name": "KDW-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
